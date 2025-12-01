@@ -28,7 +28,7 @@ https://colab.research.google.com/drive/16cbEp-BYICTS3NmNZKvQcVy5VKI8YVYt?usp=sh
 
 ◼ Implementar Backpropagation em uma rede MLP sem bibliotecas.
 
-# PEL219-3_Dense
+# PEL219-Dense
 
 https://colab.research.google.com/drive/1Px6Cq4kmJfCUGyueU5mHGI7gLc28dPWM?usp=sharing
 
