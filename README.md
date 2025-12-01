@@ -22,7 +22,7 @@ https://colab.research.google.com/drive/11CBJyNVn1eDjd7NWQb9RcEUejYA7L0Be?usp=sh
 
 # PEL219-SerieTemp
 
-https://colab.research.google.com/drive/11CBJyNVn1eDjd7NWQb9RcEUejYA7L0Be?usp=sharing
+https://colab.research.google.com/drive/1HC2HaRomXKDnl9s5Rov-asOUqok2VNbO?usp=sharing
 
 ## Tarefa 6
 
