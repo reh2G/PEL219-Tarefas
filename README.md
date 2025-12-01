@@ -20,6 +20,8 @@ https://colab.research.google.com/drive/11CBJyNVn1eDjd7NWQb9RcEUejYA7L0Be?usp=sh
 
 – Acertos = a saída igual ao o target desejado. 
 
+---
+
 # PEL219-MLP
 
 https://colab.research.google.com/drive/16cbEp-BYICTS3NmNZKvQcVy5VKI8YVYt?usp=sharing
@@ -28,6 +30,8 @@ https://colab.research.google.com/drive/16cbEp-BYICTS3NmNZKvQcVy5VKI8YVYt?usp=sh
 
 ◼ Implementar Backpropagation em uma rede MLP sem bibliotecas.
 
+---
+
 # PEL219-Dense
 
 https://colab.research.google.com/drive/1Px6Cq4kmJfCUGyueU5mHGI7gLc28dPWM?usp=sharing
@@ -35,6 +39,8 @@ https://colab.research.google.com/drive/1Px6Cq4kmJfCUGyueU5mHGI7gLc28dPWM?usp=sh
 ## Tarefa 3
 
 ◼ Testar arquiteturas de modelos utilizando o database MNIST
+
+---
 
 # PEL219-GLWL
 
@@ -50,6 +56,8 @@ https://colab.research.google.com/drive/1-Ew32PJal-IfGlUB5x9oi-O-6Gvsvr07?usp=sh
 
 – Use treinamento supervisionado em cada camada (Adam+Crossentropy)
 
+---
+
 # PEL219-CNN2D
 
 https://colab.research.google.com/drive/1GN_k9X1krIG7iZHhIL-umD14wGu3pmHx?usp=sharing
@@ -64,6 +72,8 @@ https://colab.research.google.com/drive/1GN_k9X1krIG7iZHhIL-umD14wGu3pmHx?usp=sh
 
 – Pode ser a LeNet-5 (ver arquitetura nos slides).
 
+---
+
 # PEL219-CNN1D
 
 https://colab.research.google.com/drive/1HC2HaRomXKDnl9s5Rov-asOUqok2VNbO?usp=sharing
@@ -71,6 +81,8 @@ https://colab.research.google.com/drive/1HC2HaRomXKDnl9s5Rov-asOUqok2VNbO?usp=sh
 ## Tarefa 6
 
 ◼ Escolham uma base de dados de série temporal e realize uma classificação/predição.
+
+---
 
 # PEL219-Resnet
 
@@ -81,6 +93,8 @@ https://colab.research.google.com/drive/1ADN7Kn80xuEacEQ2OHj4XXxO1vS2FkFM?usp=sh
 (Teste pessoal)
 
 ◼ Tentar criar e aplicar arquitetura Resnet utilizando o database MNIST
+
+---
 
 # PEL219-CNN3D
 
