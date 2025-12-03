@@ -6,17 +6,15 @@ https://colab.research.google.com/drive/11CBJyNVn1eDjd7NWQb9RcEUejYA7L0Be?usp=sh
 
 ◼ Teste o seu Perceptron usando as bases:
 
-– Diabetes simplificada.
+1. Diabetes simplificada.
 
 • Disponibilizada no Moodle. Carregada neste Github.
 
-– Diabetes completa, com 8 entradas e 700+ exemplos
+2. Diabetes completa, com 8 entradas e 700+ exemplos.
 
 • https://github.com/jbrownlee/Datasets/blob/master/pima-indians-diabetes.data.csv
 
-– indians-diabetes.data.csv
-
-◼ Para as duas bases, calcule a quantidade de acertos
+◼ Para as duas bases, calcule a quantidade de acertos.
 
 – Acertos = a saída igual ao o target desejado. 
 
@@ -38,7 +36,7 @@ https://colab.research.google.com/drive/1Px6Cq4kmJfCUGyueU5mHGI7gLc28dPWM?usp=sh
 
 ## Tarefa 3
 
-◼ Testar arquiteturas de modelos utilizando o database MNIST
+◼ Testar arquiteturas de modelos utilizando o database MNIST.
 
 ---
 
@@ -54,7 +52,7 @@ https://colab.research.google.com/drive/1-Ew32PJal-IfGlUB5x9oi-O-6Gvsvr07?usp=sh
 
 – Use o atributo “treinable” do Keras para congelar e descongelar camadas.
 
-– Use treinamento supervisionado em cada camada (Adam+Crossentropy)
+– Use treinamento supervisionado em cada camada (Adam+Crossentropy).
 
 ---
 
@@ -92,7 +90,7 @@ https://colab.research.google.com/drive/1ADN7Kn80xuEacEQ2OHj4XXxO1vS2FkFM?usp=sh
 
 (Teste pessoal)
 
-◼ Tentar criar e aplicar arquitetura Resnet utilizando o database MNIST
+◼ Tentar criar e aplicar arquitetura Resnet utilizando o database MNIST.
 
 ---
 
@@ -102,22 +100,16 @@ https://colab.research.google.com/drive/14AvZWmoPran7gWEEiN6jR1nK6g1YGoMk?usp=sh
 
 ## Tarefa 8
 
-◼ Faça a classificação de algum problema 3D
+◼ Faça a classificação de algum problema 3D.
 
 ---
 
-# PEL219-CNN3D
+# PEL219-RNN
 
 https://colab.research.google.com/drive/1xgkC_nSyyn2IDb_Qzrcb1J3dL3tBqzX3?usp=sharing
 
 ## Tarefa 9
 
-◼ Usem LSTM e GRU para comparar com o trabalho de CNN1D já entregue.
+◼ Usem LSTM e GRU (Redes Neurais Recorrentes) para comparar com o trabalho de CNN1D já entregue.
 
-– Escolham uma base de dados de série temporal e realize uma classificação/predição.
-
-– Pode ser qualquer série, mas na UCI ML Archive tem muitos.
-
-- Compare os resultados e o desempenho.
-
-◼ Testem usar regularização e Dropout nos problemas que estudamos até aqui, ver se gera alguma melhoria...
+– Compare os resultados e o desempenho.
