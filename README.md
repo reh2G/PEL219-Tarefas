@@ -98,8 +98,26 @@ https://colab.research.google.com/drive/1ADN7Kn80xuEacEQ2OHj4XXxO1vS2FkFM?usp=sh
 
 # PEL219-CNN3D
 
-◼ Testem usar regularização e Dropout nos problemas que estudamos até aqui, ver se gera alguma melhoria...
+https://colab.research.google.com/drive/14AvZWmoPran7gWEEiN6jR1nK6g1YGoMk?usp=sharing
 
 ## Tarefa 8
 
+◼ Faça a classificação de algum problema 3D
 
+---
+
+# PEL219-CNN3D
+
+https://colab.research.google.com/drive/1xgkC_nSyyn2IDb_Qzrcb1J3dL3tBqzX3?usp=sharing
+
+## Tarefa 9
+
+◼ Usem LSTM e GRU para comparar com o trabalho de CNN1D já entregue.
+
+– Escolham uma base de dados de série temporal e realize uma classificação/predição.
+
+– Pode ser qualquer série, mas na UCI ML Archive tem muitos.
+
+- Compare os resultados e o desempenho.
+
+◼ Testem usar regularização e Dropout nos problemas que estudamos até aqui, ver se gera alguma melhoria...
