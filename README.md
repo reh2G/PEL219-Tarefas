@@ -104,7 +104,7 @@ https://colab.research.google.com/drive/14AvZWmoPran7gWEEiN6jR1nK6g1YGoMk?usp=sh
 
 ---
 
-# PEL219-RNN (AINDA EM ANDAMENTO)
+# PEL219-RNN
 
 https://colab.research.google.com/drive/1xgkC_nSyyn2IDb_Qzrcb1J3dL3tBqzX3?usp=sharing
 
