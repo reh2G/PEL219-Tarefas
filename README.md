@@ -1,11 +1,9 @@
 # PEL219 - Redes Neurais Artificiais e Aprendizado Profundo
 #### Engenharia Elétrica - Mestrado e Doutorado
 
-# PEL219-Perceptron
+## Tarefa 1
 
 https://colab.research.google.com/drive/11CBJyNVn1eDjd7NWQb9RcEUejYA7L0Be?usp=sharing
-
-## Tarefa 1
 
 ◼ Teste o seu Perceptron usando as bases:
 
@@ -23,31 +21,25 @@ https://colab.research.google.com/drive/11CBJyNVn1eDjd7NWQb9RcEUejYA7L0Be?usp=sh
 
 ---
 
-# PEL219-MLP
+## Tarefa 2
 
 https://colab.research.google.com/drive/16cbEp-BYICTS3NmNZKvQcVy5VKI8YVYt?usp=sharing
-
-## Tarefa 2
 
 ◼ Implementar Backpropagation em uma rede MLP sem bibliotecas.
 
 ---
 
-# PEL219-Dense
+## Tarefa 3
 
 https://colab.research.google.com/drive/1Px6Cq4kmJfCUGyueU5mHGI7gLc28dPWM?usp=sharing
-
-## Tarefa 3
 
 ◼ Testar arquiteturas de modelos utilizando o database MNIST.
 
 ---
 
-# PEL219-GLWL
+## Tarefa 4
 
 https://colab.research.google.com/drive/1-Ew32PJal-IfGlUB5x9oi-O-6Gvsvr07?usp=sharing
-
-## Tarefa 4
 
 ◼ Reimplemente a rede com 6 camadas para o MNIST usando o Greedy Layer Wise Learning!
 
@@ -59,11 +51,9 @@ https://colab.research.google.com/drive/1-Ew32PJal-IfGlUB5x9oi-O-6Gvsvr07?usp=sh
 
 ---
 
-# PEL219-CNN2D
+## Tarefa 5
 
 https://colab.research.google.com/drive/1GN_k9X1krIG7iZHhIL-umD14wGu3pmHx?usp=sharing
-
-## Tarefa 5
 
 ◼ Reimplementem a rede de reconhecimento de dígitos usando Convolução 2D:
 
@@ -75,21 +65,17 @@ https://colab.research.google.com/drive/1GN_k9X1krIG7iZHhIL-umD14wGu3pmHx?usp=sh
 
 ---
 
-# PEL219-CNN1D
+## Tarefa 6
 
 https://colab.research.google.com/drive/1HC2HaRomXKDnl9s5Rov-asOUqok2VNbO?usp=sharing
-
-## Tarefa 6
 
 ◼ Escolham uma base de dados de série temporal e realize uma classificação/predição.
 
 ---
 
-# PEL219-Resnet
+## Tarefa 7
 
 https://colab.research.google.com/drive/1ADN7Kn80xuEacEQ2OHj4XXxO1vS2FkFM?usp=sharing
-
-## Teste 7
 
 (Teste pessoal)
 
@@ -97,21 +83,17 @@ https://colab.research.google.com/drive/1ADN7Kn80xuEacEQ2OHj4XXxO1vS2FkFM?usp=sh
 
 ---
 
-# PEL219-CNN3D
+## Tarefa 8
 
 https://colab.research.google.com/drive/14AvZWmoPran7gWEEiN6jR1nK6g1YGoMk?usp=sharing
-
-## Tarefa 8
 
 ◼ Faça a classificação de algum problema 3D.
 
 ---
 
-# PEL219-RNN
+## Tarefa 9
 
 https://colab.research.google.com/drive/1xgkC_nSyyn2IDb_Qzrcb1J3dL3tBqzX3?usp=sharing
-
-## Tarefa 9
 
 ◼ Usem LSTM e GRU (Redes Neurais Recorrentes) para comparar com o trabalho de CNN1D já entregue.
 
